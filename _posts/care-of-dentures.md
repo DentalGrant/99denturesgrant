@@ -9,7 +9,7 @@ ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
-Denture wearer? Please keep them in top shape! Understand the difference between full and partial dentures and know regular cleaning is critical for appearance and oral health. Dive into our guide for the best denture care and maintain that confident smile.
+Denture wearer? Please keep them in top shape! Understand the difference between full and partial dentures and know regular cleaning is critical for appearance and oral health. Dive into our guide for the best denture care and maintain that confident smiles.
 
 ## Types of Dentures
 
