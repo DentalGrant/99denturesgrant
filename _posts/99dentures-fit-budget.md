@@ -18,7 +18,7 @@ With our affordable option, you can finally have a set of dentures that restore 
 
 Our $99 dentures are crafted precisely and designed for a comfortable fit. You'll be able to relish your favorite foods without a hitch, and taking care of your dentures will be a breeze, ensuring you maintain top-notch oral hygiene.
 
-Don't let budget constraints deter you from a radiant smile. With the right care and attention, your dentures can look and feel fantastic. Visit us today to discover the incredible benefits of our $99 dentures!
+Don't let budget constraints deter you from a radiant smile. With the proper care and attention, your dentures can look and feel fantastic. Visit us today to discover the incredible benefits of our $99 dentures!
 
 ## Choosing the Right Dentures
 
