@@ -1,3 +1,4 @@
+
 ---
 title: '$99 Dentures That Fit Your Budget'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
