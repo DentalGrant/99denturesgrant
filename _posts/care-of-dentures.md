@@ -15,7 +15,7 @@ Denture wearer? Please keep them in top shape! Understand the difference between
 
 Now let's talk about the different types of dentures you can choose from to give you a smile you'll love!
 
-Regarding dentures, several options are available to meet your specific needs, including considerations for maintenance and fit. One such maintenance procedure to ensure a comfortable fit over time is [denture relining](https://99denturesgrant.vercel.app/posts/denture-relining/).
+Regarding dentures, several options are available to meet your specific needs, including considerations for maintenance and fit. One such maintenance procedure to ensure a comfortable fit over time is [denture relining](_posts/denture-relining/).
 
 The most common types of dentures include full, partial, implant-supported, and immediate. Complete dentures are used when all of your natural teeth are missing, while partial dentures are used when you still have some natural teeth remaining. Implant-supported dentures provide a more secure and stable fit by attaching to dental implants; immediate dentures are temporary ones placed immediately after tooth extraction.
 
