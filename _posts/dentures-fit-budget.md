@@ -1,15 +1,14 @@
 
 ---
-title: '$99 Dentures That Fit Your Budget'
+title: 'Dazzling New Smile: Cosmetic Dentistry Before and After'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
- name: JJ Kasper
- picture: '/assets/blog/authors/jj.jpeg'
- ogImage:
+  name: JJ Kasper
+  picture: '/assets/blog/authors/jj.jpeg'
+ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
-
 [<span style="color:blue"> $99 dentures near me </span>](https://grantsupporter.com/99-dentures-in-a-day/), you need not look further! Our affordable $99 dentures provide a solution without that hefty price tag. Offering a comfortable fit and a natural look, all while keeping your budget intact, our dentures ensure you don’t have to compromise. With regular care, they'll stand the test of time, allowing you to flash a confident, worry-free smile for years to come. Get your pocket-friendly dentures with us today, and keep smiling without overspending!
 
 ## Benefits of $99 Dentures
